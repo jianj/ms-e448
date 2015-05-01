@@ -1,2 +1,2 @@
 # ms-e448
-Code for Project Factor Top-Down Shock Propagation
+Code for overnight change & intra-daily change trading
